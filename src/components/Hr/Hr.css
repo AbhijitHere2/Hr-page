@@ -1,0 +1,12 @@
+.cont{
+ 
+  height: 540px;
+  /* background-color: red; */
+  
+  
+  border-radius: 15px;
+  background-image:  url('../images/hrbanner.svg'); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+}
